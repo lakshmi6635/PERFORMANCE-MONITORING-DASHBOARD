@@ -1,0 +1,17 @@
+﻿# Setup Documentation
+
+1. Open the solution (PerformanceDashboard1.sln) in Visual Studio.
+2. Make sure all NuGet packages (if any) are restored.
+3. Ensure the startup form is set to Form2 in Program.cs:
+
+   Application.Run(new Form2());
+
+4. Run the application (press Start).
+5. The form contains:
+   - A chart to show CPU usage (simulated)
+   - A Start button to begin monitoring
+   - A Stop button to stop monitoring
+   - A label to display update time/status
+
+6. No Azure or Application Insights is used.
+   - CPU usage values are randomly generated for simulation.
