@@ -1,1 +1,15 @@
 # PERFORMANCE-MONITORING-DASHBOARD
+
+#COMPANY: CODTECH IT SOLUTIONS
+
+#NAME:LAKSHMI M
+
+#INTERN ID:CT06DF947
+
+#DOMAIN:.NET
+
+#DURATION:6 WEEKS
+
+#MENTOR:NEELA SANTOSH
+
+DESCRIPTION:This is a Windows Forms application built using C# and .NET Framework to simulate performance monitoring.
